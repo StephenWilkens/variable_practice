@@ -13,3 +13,7 @@ shoe_size = 9.5
 red_head = true
 broke_as_a_joke = true
 bad_at_bikes = false
+
+hometown = "Huntington Beach"
+highschool = "drop out"
+first_pet = "turtle"
